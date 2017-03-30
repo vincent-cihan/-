@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[ViewController2 pickerView:viewForRow:forComponent:reusingView:]:ViewController2.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "pickLabel.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController2 pickerView:numberOfRowsInComponent:]:ViewController2.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.firstPickArray.count">
+            </PersistentString>
+            <PersistentString
+               value = "self.currentSecondArray.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
