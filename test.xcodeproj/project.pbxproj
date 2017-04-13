@@ -12,7 +12,6 @@
 		A80D749A1E7A8C6B009F767B /* NSObject+JKCoding.m in Sources */ = {isa = PBXBuildFile; fileRef = A80D74981E7A8C6B009F767B /* NSObject+JKCoding.m */; };
 		A81886851E7931BF000324F4 /* Podfile in Resources */ = {isa = PBXBuildFile; fileRef = A81886841E7931BF000324F4 /* Podfile */; };
 		A819944B1E79450800749782 /* MBProgressHUD+MJ.m in Sources */ = {isa = PBXBuildFile; fileRef = A819944A1E79450800749782 /* MBProgressHUD+MJ.m */; };
-		A82577A11E79382A003E58F2 /* ViewController1.m in Sources */ = {isa = PBXBuildFile; fileRef = A82577A01E79382A003E58F2 /* ViewController1.m */; };
 		A89D8A4B1E7929A400492AB6 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A89D8A4A1E7929A400492AB6 /* main.m */; };
 		A89D8A4E1E7929A400492AB6 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A89D8A4D1E7929A400492AB6 /* AppDelegate.m */; };
 		A89D8A561E7929A400492AB6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A89D8A551E7929A400492AB6 /* Assets.xcassets */; };
@@ -67,8 +66,6 @@
 		A81886841E7931BF000324F4 /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A81994491E79450800749782 /* MBProgressHUD+MJ.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "MBProgressHUD+MJ.h"; sourceTree = "<group>"; };
 		A819944A1E79450800749782 /* MBProgressHUD+MJ.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "MBProgressHUD+MJ.m"; sourceTree = "<group>"; };
-		A825779F1E79382A003E58F2 /* ViewController1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController1.h; sourceTree = "<group>"; };
-		A82577A01E79382A003E58F2 /* ViewController1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController1.m; sourceTree = "<group>"; };
 		A89D8A461E7929A400492AB6 /* test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = test.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A89D8A4A1E7929A400492AB6 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		A89D8A4C1E7929A400492AB6 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -198,8 +195,6 @@
 				A8C87DFC1E7A261300F82F95 /* Utilities */,
 				A81994481E79450800749782 /* Libraries */,
 				A89D8A491E7929A400492AB6 /* Supporting Files */,
-				A825779F1E79382A003E58F2 /* ViewController1.h */,
-				A82577A01E79382A003E58F2 /* ViewController1.m */,
 				A8C87E371E7A5ABF00F82F95 /* ViewController2.h */,
 				A8C87E381E7A5ABF00F82F95 /* ViewController2.m */,
 				A8D2EF891E8BACF00044B0A8 /* DPPickTimeView.h */,
@@ -571,7 +566,6 @@
 				A8C87E171E7A3E7B00F82F95 /* RootViewController.m in Sources */,
 				A8C87E0F1E7A2A4100F82F95 /* LYHUIControl.m in Sources */,
 				A8C87E271E7A53D700F82F95 /* ListViewController.m in Sources */,
-				A82577A11E79382A003E58F2 /* ViewController1.m in Sources */,
 				A89D8A4B1E7929A400492AB6 /* main.m in Sources */,
 				A80D749A1E7A8C6B009F767B /* NSObject+JKCoding.m in Sources */,
 			);

@@ -59,7 +59,7 @@
     NSMutableArray *viewControllers = [NSMutableArray array];
     
     for (NSInteger i = 0; i < 4; i++) {
-        Class class = NSClassFromString(@"ViewController1");
+        Class class = NSClassFromString(@"ViewController2");
         UIViewController *vc = [class new];
         vc.view.backgroundColor = kCOLOR(arc4random() % 255, arc4random() % 255, arc4random() % 255);
         CYLBaseNavigationController *myNC = [[CYLBaseNavigationController alloc] initWithRootViewController:vc];

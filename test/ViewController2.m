@@ -33,6 +33,8 @@
         make.height.mas_equalTo(150);
     }];
     
+    [self.pickTimeView appear];
+    
     
 }
 
@@ -56,7 +58,7 @@
 }
 
 - (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event {
-    static BOOL isAppear = 0;
+    static BOOL isAppear = 1;
     isAppear = !isAppear;
     if (isAppear) {
         [self.pickTimeView appear];
